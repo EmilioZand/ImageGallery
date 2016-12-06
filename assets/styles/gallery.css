@@ -1,0 +1,13 @@
+.image-gallery {
+  margin: auto;
+  width: 100%;
+}
+
+.gallery-img {
+  width: 33%;
+  margin: 0.1%
+}
+
+body {
+  background-color: black;
+}
